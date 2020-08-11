@@ -6,9 +6,9 @@ by 露易娘 Ruimusume</br>
 
 <img src="https://wx1.sinaimg.cn/mw690/6b6d4dd9gy1ggxpmr4uhaj212u0u0b2a.jpg"/>
 
-HP位置
-[main+184a078]+140
-HP上限位置
-[main+184a078]+144
-金钱位置
-[main+184a078]+148
+HP位置</br>
+[main+184a078]+140</br>
+HP上限位置</br>
+[main+184a078]+144</br>
+金钱位置</br>
+[main+184a078]+148</br>
