@@ -10,9 +10,9 @@ v1.0.1</br>
 TID:0100A3900C3E2000</br>
 BID:e74395f066fd8ccb</br>
 
-HP位置</br>
+HP位置（4byte）</br>
 [main+184a078]+140</br>
-HP上限位置</br>
+HP上限位置（4byte）</br>
 [main+184a078]+144</br>
-金钱位置</br>
+金钱位置（4byte）</br>
 [main+184a078]+148</br>
